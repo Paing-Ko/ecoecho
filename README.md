@@ -45,7 +45,7 @@ git clone https://github.com/FAC29/ecoecho.git
 
 ## Deployment
 
-Experience the magic of EcoEcho on [GitHub Pages](https://fac29a.github.io/ecoecho/).
+Experience the magic of EcoEcho on [GitHub Pages](https://paing-ko.github.io/ecoecho/).
 
 ## Tech Stack
 
